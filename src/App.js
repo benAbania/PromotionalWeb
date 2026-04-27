@@ -1,4 +1,3 @@
-import { useState } from "react";
 import logo from "./assets/logo.png"; // Ensure this matches where you save the new logo
 
 /* ─────────────────────────────────────────────
